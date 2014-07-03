@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A00F187E-0798-4BA9-BD59-FD07E882EDC1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>YinChuan</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>03DAE8DC-335D-4CF3-8765-D504D9D6EF25</key>
+		<string>https://192.168.0.146/svn/mobile/ios/YinChuan</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>YinChuan.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>03DAE8DC-335D-4CF3-8765-D504D9D6EF25</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>03DAE8DC-335D-4CF3-8765-D504D9D6EF25</key>
+		<string>https://192.168.0.146/svn/mobile</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://192.168.0.146/svn/mobile/ios/YinChuan/YinChuan.xcworkspace</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>03DAE8DC-335D-4CF3-8765-D504D9D6EF25</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>03DAE8DC-335D-4CF3-8765-D504D9D6EF25</string>
+			<key>IDESourceControlWCCName</key>
+			<string>YinChuan</string>
+		</dict>
+	</array>
+</dict>
+</plist>
